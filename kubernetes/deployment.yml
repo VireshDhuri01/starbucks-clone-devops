@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: starbucks-container
-        image: 706162601257.dkr.ecr.us-east-1.amazonaws.com/starbucks:4
+        image: 706162601257.dkr.ecr.us-east-1.amazonaws.com/starbucks:5
         ports:
         - containerPort: 3000
