@@ -6,7 +6,7 @@ This project demonstrates an end-to-end DevOps implementation for deploying a **
 
 ## 🚀 Tech Stack
 
-- Git & GitHub
+- GitHub
 - Jenkins
 - SonarQube
 - Trivy
