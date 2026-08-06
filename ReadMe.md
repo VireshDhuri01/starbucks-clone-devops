@@ -50,7 +50,7 @@ Allow:
 - 3000 (Grafana)
 - 9090 (Prometheus)
 - 443 (EKS API)
-- NodePort - (Check service.yml)
+- Application - (Check service.yml)
 
 ## ✨ Features
 
