@@ -1,6 +1,6 @@
-## ☕ Netflix Clone - DevSecOps Project
+## ☕ Starbucks Clone - DevOps Project
 
-This project demonstrates an end-to-end DevOps implementation for deploying a **Starbucks Clone** application on **Amazon EKS** using a fully automated CI/CD pipeline.
+Built an end-to-end DevOps pipeline for a Starbucks Clone application using Jenkins, Docker, Kubernetes, Amazon EKS, and Argo CD. Integrated SonarQube and Trivy for code quality and security scanning, with Prometheus and Grafana for monitoring.
 
 ---
 
