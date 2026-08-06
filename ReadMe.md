@@ -38,11 +38,7 @@ Jenkins Pipeline
       Amazon EKS Cluster
             │
             ▼
-       Netflix Clone
-            │
-            ▼
-      Live Movie Data
-         (TMDB API)
+       Starbucks Clone
 
 Monitoring
 
