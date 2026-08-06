@@ -39,6 +39,18 @@ Argo CD Sync
    ↓
 Amazon EKS Deployment
 ```
+## 🔐 Security Groups
+
+Allow:
+
+- 22 (SSH)
+- 80 (HTTP)
+- 8080 (Jenkins)
+- 9000 (SonarQube)
+- 3000 (Grafana)
+- 9090 (Prometheus)
+- 443 (EKS API)
+- NodePort - (Check service.yml)
 
 ## ✨ Features
 
