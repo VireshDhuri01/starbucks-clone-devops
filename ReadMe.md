@@ -8,15 +8,15 @@ This project demonstrates an end-to-end DevOps implementation for deploying a **
 
 - Git & GitHub
 - Jenkins
+- SonarQube
+- Trivy
 - Docker
-- Docker Hub
+- AWS ECR
 - AWS EC2
 - Amazon EKS
 - Kubernetes
 - Helm
 - Argo CD
-- SonarQube
-- Trivy
 - Prometheus
 - Grafana
 
@@ -31,7 +31,7 @@ SonarQube Analysis
    ↓
 Trivy Security Scan
    ↓
-Docker Build & Push
+Docker Build & Push on AWS ECR
    ↓
 Update Kubernetes Manifest
    ↓
@@ -53,12 +53,7 @@ Amazon EKS Deployment
 ## 📸 Screenshots
 
 - Jenkins Pipeline
-- SonarQube Dashboard
-- Trivy Scan Results
-- Docker Hub Repository
 - Argo CD Dashboard
-- Kubernetes Pods
-- Grafana Dashboard
 - Starbucks Clone Application
 
 ## 👨‍💻 Author
