@@ -54,13 +54,6 @@ Allow:
 
 ## ✨ Features
 
-- Automated CI/CD pipeline with Jenkins
-- Dockerized application deployment
-- GitOps deployment using Argo CD
-- Kubernetes orchestration on Amazon EKS
-- Code quality analysis with SonarQube
-- Vulnerability scanning using Trivy
-- Monitoring with Prometheus & Grafana
 
 ## 📸 Screenshots
 
