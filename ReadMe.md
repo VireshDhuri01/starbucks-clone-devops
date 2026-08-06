@@ -1,4 +1,4 @@
-## 🎬 Netflix Clone - DevSecOps Project
+## ☕ Netflix Clone - DevSecOps Project
 
 This project demonstrates an end-to-end DevOps implementation for deploying a **Starbucks Clone** application on **Amazon EKS** using a fully automated CI/CD pipeline.
 
