@@ -6,11 +6,9 @@ Built an end-to-end DevOps pipeline for a Starbucks Clone application using Jenk
 
 ### 📌 Project Architecture
 
-> **Add your architecture image here**
-
-```markdown
-![Architecture](images/architecture.png)
-```
+<p align="center">
+  <img src="./project-images/project-architecture.png" width="600" title="Architecture" alt="Architecture">
+  </p>
 
 ---
 
