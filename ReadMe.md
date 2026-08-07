@@ -171,7 +171,7 @@ Monitor
 ## Starbucks Clone
 
 <p align="center">
-  <img src="./project-images/Final.png" width="600" title="Architecture" alt="Architecture">
+  <img src="./project-images/final.png" width="600" title="Architecture" alt="Architecture">
   </p>
 
 **Viresh Dhuri**
