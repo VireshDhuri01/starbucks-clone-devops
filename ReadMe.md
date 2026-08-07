@@ -158,15 +158,21 @@ Monitor
 
 ### Jenkins Pipeline
 
-> Add image
+<p align="center">
+  <img src="./project-images/Pipeline.png" width="600" title="Architecture" alt="Architecture">
+  </p>
 
 ### Argo CD
 
-> Add image
+<p align="center">
+  <img src="./project-images/Argo-cd-dashboard.png" width="600" title="Architecture" alt="Architecture">
+  </p>
 
 ## Starbucks Clone
 
-> Add screenshot
+<p align="center">
+  <img src="./project-images/Final.png" width="600" title="Architecture" alt="Architecture">
+  </p>
 
 **Viresh Dhuri**
 
