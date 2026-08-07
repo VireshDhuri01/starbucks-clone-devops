@@ -7,7 +7,7 @@ Built an end-to-end DevOps pipeline for a Starbucks Clone application using Jenk
 ### 📌 Project Architecture
 
 <p align="center">
-  <img src="./project-images/project-architecture.png" width="600" title="Architecture" alt="Architecture">
+  <img src="./project-images/project-architecture.png" width="900" title="Architecture" alt="Architecture">
   </p>
 
 ---
