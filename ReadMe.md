@@ -61,7 +61,7 @@ Prometheus → Grafana
   <img src="./project-images/Argo-cd-dashboard.png" width="600" title="Architecture" alt="Architecture">
   </p>
 
-## Starbucks Clone
+### Starbucks Clone
 
 <p align="center">
   <img src="./project-images/final.png" width="600" title="Architecture" alt="Architecture">
