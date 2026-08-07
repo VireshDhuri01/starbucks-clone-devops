@@ -52,19 +52,19 @@ Prometheus → Grafana
 ### Jenkins Pipeline
 
 <p align="center">
-  <img src="./project-images/Pipeline.png" width="600" title="Architecture" alt="Architecture">
+  <img src="./project-images/Pipeline.png" width="900" title="Architecture" alt="Architecture">
   </p>
 
 ### Argo CD
 
 <p align="center">
-  <img src="./project-images/Argo-cd-dashboard.png" width="600" title="Architecture" alt="Architecture">
+  <img src="./project-images/Argo-cd-dashboard.png" width="900" title="Architecture" alt="Architecture">
   </p>
 
 ### Starbucks Clone
 
 <p align="center">
-  <img src="./project-images/final.png" width="600" title="Architecture" alt="Architecture">
+  <img src="./project-images/final.png" width="900" title="Architecture" alt="Architecture">
   </p>
 
 ### 🛠️ Tech Stack
